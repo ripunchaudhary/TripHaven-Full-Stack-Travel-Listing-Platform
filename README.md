@@ -59,10 +59,8 @@ Create a `.env` file in the root directory and add:
 ## 🚀 Getting Started (Local Setup)
 
 npm install
+
 nodemon app.js
 
 
-
-
-## 📂 Project Structure
 
